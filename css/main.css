@@ -1,3 +1,9 @@
+
+
+
+/* Positioning: https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/ */
+/* Flexbox: "https://css-tricks.com/snippets/css/a-guide-to-flexbox/" */
+
 body {
-    background-color: firebrick;
+    background-color: rgb(138, 255, 226);
 }
